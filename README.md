@@ -1,1 +1,1 @@
-# AI-HELATH
+# AI-HEALTH
